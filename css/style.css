@@ -1,0 +1,188 @@
+header{
+	background-image: url(../images/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 80vh;
+	position: relative;
+	background-attachment: fixed; 
+}
+.mynav{
+	   height: 116px;
+}
+
+.navbar-right{
+	
+}
+.navbar-right li{padding: 0 10px;background: #475ba0;margin-top: 20px;text-decoration: none;}
+.navbar-right li a{
+
+color: aliceblue;
+
+text-transform: uppercase;
+}
+
+.banner-content{
+	/*width: 750px;*/
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	text-align: center;
+	transform: translate(-50%,-50%);
+}
+
+.banner-content h1{
+	margin-bottom: 40px;
+	font-weight: 700;
+	color: #fdfdfd;
+}
+
+.banner-content button{
+	    padding: 15px 30px;
+	    background-color: #3f94c5;
+	    border-color: #3f94c5;
+	    border-radius: 10px;
+}
+.banner-content button a{
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 900;
+	text-decoration: none;
+}
+
+.tip-section{
+	background-color: rgb(243, 243, 243);
+	padding-top: 30px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.tip-section h5{
+	
+padding: 0px 370px;
+}
+.tip-section h3{
+
+font-weight: 700;
+
+margin-top: 30px;
+}
+
+.trip-img{
+
+margin-top: 40px;
+
+margin-bottom: 40px;
+}
+
+.tip-section button{
+		padding: 15px 30px;
+	    background-color: #3f94c5;
+	    border-color: #3f94c5;
+	    border-radius: 10px;
+}
+
+.tip-section button a{
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.axa-section{
+
+text-align: center;
+
+margin-top: 20px;
+
+margin-bottom: 40px;
+}
+.axa-section h2{
+
+margin-bottom: 50px;
+
+font-weight: 700;
+}
+
+.axa-img{
+	
+}
+.axa-img h3{
+	
+}
+
+.axa-section button{
+		padding: 15px 30px;
+	    background-color: #3f94c5;
+	    border-color: #3f94c5;
+	    border-radius: 10px;
+}
+.axa-section button a{
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.your-section{
+	background-image: url(../images/footer.jpg);
+	height: 40vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+.your-h2 {position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	color: white;
+}
+
+.your-h2 h2{
+	margin-bottom: 30px;
+	font-weight: 700;
+}
+.your-section button{
+		padding: 15px 30px;
+	    background-color: #3f94c5;
+	    border-color: #3f94c5;
+	    border-radius: 10px;
+}
+.your-section button a{
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.your-contant{
+
+background: #f6f6f7;
+}
+.contant{
+
+}
+.contant p{
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+
+text-align: center;
+
+padding: 0 50px;
+}
+
+footer{
+
+height: 50px;
+
+background-color: #ececec;
+}
+
+.footer-section{
+
+}
+.footer-content{
+	
+}
+.footer-content h4{
+
+margin-top: 20px;
+}
